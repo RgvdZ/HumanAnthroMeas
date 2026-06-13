@@ -1,0 +1,4 @@
+Using device: cuda
+Loaded checkpoint from epoch 1000
+TorchScript model saved to: bmnet_mobile.pt
+Done! Mobile model is ready.

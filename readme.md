@@ -2,7 +2,7 @@
 This project introduces a novel, efficient framework for human body measurement estimation. By utilizing a 2D silhouette-based approach, this system eliminates the computational overhead associated with traditional 3D parametric model fitting, resulting in significantly faster training cycles and improved resource efficiency.
 
 Overview
-Traditional body measurement systems often rely on heavy 3D human mesh recovery (HMR) pipelines, which require iterative and computationally expensive optimization. This framework shifts the paradigm by regressing physical body measurements—such as limb lengths and circumference parameters—directly from 2D silhouette deformation patterns.
+Traditional body measurement systems often rely on heavy 3D human mesh recovery (HMR) pipelines, which require iterative and computationally expensive optimization. This framework shifts the paradigm by regressing physical body measurements, such as limb lengths and circumference parameters, directly from 2D silhouette deformation patterns.
 
 Key Features
 Training Efficiency: Bypasses iterative 3D mesh optimization to streamline the training pipeline.
